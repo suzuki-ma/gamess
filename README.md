@@ -1,1 +1,3 @@
 # gamess
+gamess.py
+gameがあるフォルダとinputファイルを入力するとgamessが実行される。
